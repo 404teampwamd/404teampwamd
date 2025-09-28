@@ -1,3 +1,3 @@
 404Team.github.io 👋
 
-Ejemplo de PWA basica
+Ejemplo de PWA con Material Desing
